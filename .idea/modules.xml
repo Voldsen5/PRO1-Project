@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/L01 SU Konto/L01 SU Konto.iml" filepath="$PROJECT_DIR$/L01 SU Konto/L01 SU Konto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01-JavaIntro/L01-JavaIntro.iml" filepath="$PROJECT_DIR$/L01-JavaIntro/L01-JavaIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02-Shapes/L02-Shapes.iml" filepath="$PROJECT_DIR$/L02-Shapes/L02-Shapes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L04/L04.iml" filepath="$PROJECT_DIR$/L04/L04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05 Types/L05 Types.iml" filepath="$PROJECT_DIR$/L05 Types/L05 Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L06 If else/L06 If else.iml" filepath="$PROJECT_DIR$/L06 If else/L06 If else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L07 Opsamling/L07 Opsamling.iml" filepath="$PROJECT_DIR$/L07 Opsamling/L07 Opsamling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L08 while loops/L08 while loops.iml" filepath="$PROJECT_DIR$/L08 while loops/L08 while loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L09 For loops/L09 For loops.iml" filepath="$PROJECT_DIR$/L09 For loops/L09 For loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L10/L10.iml" filepath="$PROJECT_DIR$/L10/L10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L12 Arrays/L12 Arrays.iml" filepath="$PROJECT_DIR$/L12 Arrays/L12 Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L13/L13.iml" filepath="$PROJECT_DIR$/L13/L13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L14 Array Lists/L14 Array Lists.iml" filepath="$PROJECT_DIR$/L14 Array Lists/L14 Array Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L15 Gui 1/L15 Gui 1.iml" filepath="$PROJECT_DIR$/L15 Gui 1/L15 Gui 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L16 Gui 2/L16 Gui 2.iml" filepath="$PROJECT_DIR$/L16 Gui 2/L16 Gui 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L17 Specifications/L17 Specifications.iml" filepath="$PROJECT_DIR$/L17 Specifications/L17 Specifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L18 Yatzy/L18 Yatzy.iml" filepath="$PROJECT_DIR$/L18 Yatzy/L18 Yatzy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L20 Forbindelser/L20 Forbindelser.iml" filepath="$PROJECT_DIR$/L20 Forbindelser/L20 Forbindelser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L21 Forbindelser 2/L21 Forbindelser 2.iml" filepath="$PROJECT_DIR$/L21 Forbindelser 2/L21 Forbindelser 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L22 Arkitektur/L22 Arkitektur.iml" filepath="$PROJECT_DIR$/L22 Arkitektur/L22 Arkitektur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L23 Opsamling/L23 Opsamling.iml" filepath="$PROJECT_DIR$/L23 Opsamling/L23 Opsamling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L24KAs/L24 KAS.iml" filepath="$PROJECT_DIR$/L24KAs/L24 KAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L24,25,26 KAS/L24,25,26 KAS.iml" filepath="$PROJECT_DIR$/L24,25,26 KAS/L24,25,26 KAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L27 Super/L27 Super.iml" filepath="$PROJECT_DIR$/L27 Super/L27 Super.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L29 Type Hierarchies 3/L29/L29.iml" filepath="$PROJECT_DIR$/L29 Type Hierarchies 3/L29/L29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L30 Searching/L30_Searching/L30_Searching.iml" filepath="$PROJECT_DIR$/L30 Searching/L30_Searching/L30_Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L31 Sorting/L31 Sorting/L31 Sorting.iml" filepath="$PROJECT_DIR$/L31 Sorting/L31 Sorting/L31 Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L32 text files/L32 Files and Exceptions/L32 Files and Exceptions.iml" filepath="$PROJECT_DIR$/L32 text files/L32 Files and Exceptions/L32 Files and Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L28 Type Hierarchies 2/L28/Type Hierarchies 2.iml" filepath="$PROJECT_DIR$/L28 Type Hierarchies 2/L28/Type Hierarchies 2.iml" />
+    </modules>
+  </component>
+</project>
